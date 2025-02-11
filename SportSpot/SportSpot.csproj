@@ -27,7 +27,7 @@
 	  <PackageReference Include="Asp.Versioning.Mvc.ApiExplorer" Version="8.1.0" />
 	  <PackageReference Include="Azure.Storage.Blobs" Version="12.23.0" />
 	  <PackageReference Include="Blurhash.ImageSharp" Version="4.0.0" />
-	  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.1" />
+	  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.2" />
 	  <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.11" />
 	  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.11" />
 	  <PackageReference Include="Microsoft.Extensions.Azure" Version="1.9.0" />
